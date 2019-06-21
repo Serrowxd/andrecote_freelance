@@ -1,3 +1,33 @@
-h1 {
-  color: green !important;
+// Global
+
+@green: green;
+
+// Unalocated
+
+.background-image {
+  height: 40vh;
+  color: white;
+
+  background-image: url(/img/cats.jpg);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  position: relative;
+
+  .container {
+    position: relative;
+    z-index: 1;
+  }
 }
+
+.filter {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  z-index: 0;
+}
+
+// Imports
+@import './styles/navigation.less';

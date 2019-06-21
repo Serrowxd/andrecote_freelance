@@ -44,3 +44,5 @@ Many people of our association don’t make difference between IE, CH, Fox, … 
 - IE & Sub-Browser Support
 - Google Drive connection -- _Tenative_
 - Admin Features -- _Tennative_
+
+**GET A NEW LOGO FROM ANDRE**
