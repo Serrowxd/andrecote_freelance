@@ -4,6 +4,8 @@
 
 [New Website]() -- Undeployed
 
+**!! NOTE THAT THE REPOSITORY HAS MOVED [NEW REPOSITORY](https://github.com/Serrowxd/andre_freelance) !!**
+
 ## Talking Points
 
 **Do you have designs or existing websites you would like me to use as reference when building?**
