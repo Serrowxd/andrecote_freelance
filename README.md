@@ -1,4 +1,4 @@
-# Freelance Web Project by Kevin Jolley
+# Freelance Web Project
 
 [Current Website](http://cdc7430.com/) -- http://cdc7430.com/
 
